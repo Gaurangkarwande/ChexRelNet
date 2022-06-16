@@ -1,0 +1,7 @@
+tables
+torch
+torchvision
+torchmetrics
+scikit-learn
+torchxrayvision
+pytorch_lightning

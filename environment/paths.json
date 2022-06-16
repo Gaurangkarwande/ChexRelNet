@@ -1,0 +1,12 @@
+{
+    "MIMIC_DATA_DIR": "/home/gaurang/CXR/data/mimic/physionet.org/files/mimic-cxr-jpg/2.0.0/files",
+    "IMAGE_PATH_FILE": "/home/gaurang/CXR/code/utils/mimic_metadata.csv",
+    "H5_FILE": "/home/gaurang/CXR/ChestXGenome/224x224_plus_14anatomies_chestImagenome.h5",
+    "COMPARISON_FILE": "/home/gaurang/CXR/data/chest_imagenome/1.0.0/gk_parser_code/final_comparison_dataset.txt",
+    "BBOX_FILE_ORIG": "/home/gaurang/CXR/data/chest_imagenome/1.0.0/silver_dataset/scene_tabular/bbox_objects_tabular_orig.txt",
+    "BBOX_FILE_224": "/home/gaurang/CXR/data/chest_imagenome/1.0.0/silver_dataset/scene_tabular/bbox_objects_tabular224.txt",
+    "ADJACENCY_FILE": "/home/gaurang/CXR/data/chest_imagenome/1.0.0/gk_parser_code/adjacency_matrix.csv",
+    "TRAINING_SPLITS": ["/home/gaurang/CXR/code/splits/train.csv",
+                        "/home/gaurang/CXR/code/splits/valid.csv",
+                        "/home/gaurang/CXR/code/splits/test.csv"]
+}

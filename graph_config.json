@@ -1,0 +1,17 @@
+{
+    "n_classes": 2,
+    "train_batch_size": 32,
+    "test_batch_size": 32,
+    "lr": 8e-4,
+    "gradient_clip_val": 0.5,
+    "num_epochs": 200,
+    "gcn_in": 2048,
+    "gcn_out": 256,
+    "gcn_hidden": 1024,
+    "gcn_dropout": 0.5,
+    "resnet_out": 4608,
+    "cnn_dropout": 0.5,
+    "cnn_freeze": true,
+    "fc_net_hidden": 128,
+    "siam_fc_net_hidden": 512
+}
