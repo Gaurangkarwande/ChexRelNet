@@ -1,7 +1,6 @@
-# ChexRelNet
+# CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships between Chest X-Rays
 
-This is code repo for our MICCAI 2022 paper *CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships between Chest X-Rays*, 
-where we introduce a neural model that can track longitudinal pathology change relations between two CXRs.
+This is code repository for the [paper](https://arxiv.org/abs/2208.03873). Here we introduce a neural model that can track longitudinal pathology change relations between two CXRs.
 
 If you find this code, models or results useful, please cite us using the following bibTex:
 ```
@@ -13,4 +12,7 @@ If you find this code, models or results useful, please cite us using the follow
   }
 ```
 
-### Requirements
+### Package Dependencies
+torch==1.9.1
+torch_geometric==2.0.1
+torchvision==0.10.1
