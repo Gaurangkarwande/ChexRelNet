@@ -13,15 +13,15 @@ If you find this code, models or results useful, please cite us using the follow
 ```
 
 ### Package Dependencies
--Python version 3.7.6
--matplotlib==3.1.3
--opencv-python==4.5.3.56
--numpy==1.19.5
--pandas==1.0.1
--pip==21.3
--pillow==7.0.0
--pytables==3.6.1
--scikit-learn==0.22.1
--torch==1.9.1
--torch_geometric==2.0.1
--torchvision==0.10.1
+- Python version 3.7.6
+- matplotlib==3.1.3
+- opencv-python==4.5.3.56
+- numpy==1.19.5
+- pandas==1.0.1
+- pip==21.3
+- pillow==7.0.0
+- pytables==3.6.1
+- scikit-learn==0.22.1
+- torch==1.9.1
+- torch_geometric==2.0.1
+- torchvision==0.10.1
