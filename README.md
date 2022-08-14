@@ -20,7 +20,7 @@ If you find this code, models or results useful, please cite us using the follow
 <p align='center'>
 <img src='https://github.com/Gaurangkarwande/ChexRelNet/blob/master/figures/model.jpg' width='600'/, cap>
 </p>
-<figcaption>ChexRelNet</figcaption>
+<figcaption align='center'>ChexRelNet</figcaption>
 </figure>
 
 ### Package Dependencies
