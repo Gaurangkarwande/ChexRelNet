@@ -16,6 +16,9 @@ If you find this code, models or results useful, please cite us using the follow
   booktitle={Proceedings of the 25th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)}
   }
 ```
+<p align='center'>
+<img src='https://github.com/Gaurangkarwande/ChexRelNet/blob/master/figures/model.jpg' width='600'/>
+</p>
 
 ### Package Dependencies
 - Python version 3.7.6
