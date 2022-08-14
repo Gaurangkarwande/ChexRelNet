@@ -1,6 +1,11 @@
 # CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships between Chest X-Rays
 
-This is code repository for the [paper](https://arxiv.org/abs/2208.03873). Here we introduce a neural model that can track longitudinal pathology change relations between two CXRs.
+This is code repository for the [paper](https://arxiv.org/abs/2208.03873).
+<br />
+**CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships between Chest X-Rays**
+by [Gaurang Karwande, Amarachi Mbakawe, Joy T. Wu, Leo A. Celi, Mehdi Moradi, and Ismini Lourentzou]
+<br />
+<p align='center'> Despite the progress in utilizing deep learning to automate chest radiograph interpretation and disease diagnosis tasks, change between sequential Chest X-rays (CXRs) has received limited attention. Monitoring the progression of pathologies that are visualized through chest imaging poses several challenges in anatomical motion estimation and image registration, i.e., spatially aligning the two images and modeling temporal dynamics in change detection. In this work, we propose CheXRelNet, a neural model that can track longitudinal pathology change relations between two CXRs. CheXRelNet incorporates local and global visual features, utilizes inter-image and intra-image anatomical information, and learns dependencies between anatomical region attributes, to accurately predict disease change for a pair of CXRs. Experimental results on the Chest ImaGenome dataset show increased downstream performance compared to baselines. </p>
 
 If you find this code, models or results useful, please cite us using the following bibTex:
 ```
