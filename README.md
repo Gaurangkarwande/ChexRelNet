@@ -16,9 +16,12 @@ If you find this code, models or results useful, please cite us using the follow
   booktitle={Proceedings of the 25th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)}
   }
 ```
+<figure>
 <p align='center'>
-<img src='https://github.com/Gaurangkarwande/ChexRelNet/blob/master/figures/model.jpg' width='600'/>
+<img src='https://github.com/Gaurangkarwande/ChexRelNet/blob/master/figures/model.jpg' width='600'/, cap>
 </p>
+<figcaption>ChexRelNet</figcaption>
+</figure>
 
 ### Package Dependencies
 - Python version 3.7.6
