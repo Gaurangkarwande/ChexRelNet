@@ -130,11 +130,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Project specific
-lightning_logs/
-*.csv
-*.h5
-*.pth
-*.jpg
-*.png
