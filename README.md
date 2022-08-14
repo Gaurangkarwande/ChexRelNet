@@ -25,6 +25,15 @@ If you find this code, models or results useful, please cite us using the follow
 </p>
 </figure>
 
+<figure>
+<p align='center'>
+<img src='https://github.com/Gaurangkarwande/ChexRelNet/blob/master/figures/graph_construction.jpg' width='600'/, cap>
+</p>
+<p align='center'>
+<figcaption='center'>Anatomy aware graph of CXR regions</figcaption>
+</p>
+</figure>
+
 ### Package Dependencies
 - Python version 3.7.6
 - matplotlib==3.1.3
