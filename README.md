@@ -47,3 +47,8 @@ If you find this code, models or results useful, please cite us using the follow
 - torch==1.9.1
 - torch_geometric==2.0.1
 - torchvision==0.10.1
+
+
+### Datasets Used
+- [ChestImagenome](https://physionet.org/content/chest-imagenome/1.0.0/)
+- [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)
